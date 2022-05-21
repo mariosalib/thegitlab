@@ -48,7 +48,7 @@ $sql = "INSERT INTO users(user_name,user_email, user_gender, user_mail_status)
 VALUES ( 'adel','adel@gmail.com', 'male','yes')";
 
 $sql = "INSERT INTO users(user_name,user_email, user_gender, user_mail_status) 
-VALUES ( 'u2','u2@ex', 'male','yes')";
+VALUES ( 'hesham mohamed','hesham.abdo.1994@gmail.com', 'male','yes')";
 $sql = "INSERT INTO users(user_name,user_email, user_gender, user_mail_status) 
 VALUES ( 'u3','u2@ex', 'male','no')";
 $sql = "INSERT INTO users(user_name,user_email, user_gender, user_mail_status) 
