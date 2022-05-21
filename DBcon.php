@@ -45,12 +45,12 @@ if(! $retvalu ) {
 echo "<br>Database Table  created successfully\n";*/
 
 $sql = "INSERT INTO users(user_name,user_email, user_gender, user_mail_status) 
-VALUES ( 'adel','adel@gmail.com', 'male','yes')";
+VALUES ( 'u1','u1@ex', 'male','yes')";
 
 $sql = "INSERT INTO users(user_name,user_email, user_gender, user_mail_status) 
-VALUES ( 'hesham mohamed','hesham.abdo.1994@gmail.com', 'male','yes')";
+VALUES ( 'u2','u2@ex', 'male','yes')";
 $sql = "INSERT INTO users(user_name,user_email, user_gender, user_mail_status) 
-VALUES ( 'u3','u2@ex', 'male','no')";
+VALUES ( 'mohamed','mohamedelnaqeb94@gmail.com', 'male','yes')";
 $sql = "INSERT INTO users(user_name,user_email, user_gender, user_mail_status) 
 VALUES ( 'u4','u1@ex', 'male','yes')";
 
